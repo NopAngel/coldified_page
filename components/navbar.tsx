@@ -7,7 +7,7 @@ export default function Navbar() {
       <nav className="flex justify-between">
         <section>
           <Link href="/">
-            <img src="/logo.png" className="w-[30px] rounded-full" />
+            <img src="/logo.png" className="w-[30px] rounded-full" alt="coldified logo" />
           </Link>
         </section>
         <section className="gap-3 flex">
