@@ -52,14 +52,14 @@ export default function Hero() {
                 <h1 className="text-xl text-center mb-1">Redes Sociales</h1>
                 <nav className="flex justify-center gap-2 *:bg-neutral-800 *:p-2 *:rounded-full">
                   <Link href="https://x.com/c8ldi">
-                    <img src="/icons/twitter.svg" />
+                    <img src="/icons/twitter.svg" alt="Twitter Logo" />
                   </Link>
                   <Link href="https://www.youtube.com/channel/UCiMcmhdA1yX_5THetoe5uNQ">
-                    <img src="/icons/youtube.svg" />
+                    <img src="/icons/youtube.svg" alt="Youtube Logo" />
                   </Link>
 
                   <Link href="https://www.twitch.tv/coldified">
-                    <img src="/icons/twitch.svg" />
+                    <img src="/icons/twitch.svg" alt="Twitch Logo" />
                   </Link>
                 </nav>
               </section>
